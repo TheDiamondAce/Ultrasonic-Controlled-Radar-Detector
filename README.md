@@ -1,6 +1,7 @@
 # Ultrasonic Controlled Radar Detector
 
-<img width="1762" height="2500" alt="Ultrasonic Controlled Radar Detector (6)" src="https://github.com/user-attachments/assets/2f0a3e1a-ec02-48f1-9e9d-30ad1622b524" />
+<img width="1410" height="2000" alt="Ultrasonic Controlled Radar Detector Zine" src="https://github.com/user-attachments/assets/c99261d5-6e25-4cdf-a6be-5d6860c4fee8" />
+
 
 
 # Motivaiton
@@ -8,7 +9,7 @@ The motivation for this was that I wanted to get into hardware, and realizing th
 I updated this project 06/19/26 but I'm pretty sure I started this project around May 2026, since this was my first personal hardware project besides hackathons.
 
 # How to Build
-To build this, you will need to get the servo motor, the ultrasonic module,the breadboard, and the joystick module, all of which can be seen in the BOM, and use the configuration in the wiring diagram to set it up. Then after you connect it to the breadboard, you will need to connect your arduino uno to all of the ports as shown in the Wiring Diagram and use the Plaformio extension and the code in this github repo to start the process. If there is an error on the #include <Arduino.h>, it is most likely a intellisense error in which you can Rebuild Intellisense Index using Platformio through the search bar up at the top of VS Code.
+To build this, you will need to get the servo motor, the ultrasonic module,the breadboard, and the joystick module, all of which can be seen in the BOM, and use the configuration in the wiring diagram to set it up. Then after you connect it to the breadboard, you will need to connect your arduino uno to all of the ports as shown in the Wiring Diagram, (Physically you will need to daisy wire the GND if there is not enough space as well as for the 3.3V or PWR) and use the Plaformio extension and the code in this github repo to start the process. If there is an error on the #include <Arduino.h>, it is most likely a intellisense error in which you can Rebuild Intellisense Index using Platformio through the search bar up at the top of VS Code.
 Then it should show you a Serial Print Message, stating what distance its detecting. Also, quick note, CONNECT THE SERVO MOTOR TO THE ULTRASONIC, OTHERWISE YOU CANT CONTROL IT!!! 
 
 # How it works
