@@ -2,7 +2,7 @@
 
 ## Quick Note: (The Zine shows the Ultrasonic disconnected as I couldnt connect it in Wokwi to the Servo Motor. CONNECT THE SERVO MOTOR TO THE ULTRASONIC, OTHERWISE YOU CANT CONTROL IT!!!)
 
-<img width="1410" height="2000" alt="Ultrasonic Controlled Radar Detector Zine" src="https://github.com/user-attachments/assets/4e1c621c-a78f-4e7d-b69c-b38570c4a031" />
+<img width="1410" height="2000" alt="Ultrasonic Controlled Radar Detector Zine" src="https://github.com/user-attachments/assets/84564a36-dc9c-4ecd-ab46-692b9b1ad27a" />
 
 # Motivaiton
 The motivation for this was that I wanted to get into hardware, and realizing that I have no idea what I am doing, this was the first project I decided to do since it would tackle what VCC and GND is, what digital ports are, and how to use a microcontroller in the first place.
