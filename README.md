@@ -1,8 +1,7 @@
 # Ultrasonic Controlled Radar Detector
 
-## Quick Note: (The Zine shows the Ultrasonic disconnected as I couldnt connect it in Wokwi to the Servo Motor. CONNECT THE SERVO MOTOR TO THE ULTRASONIC, OTHERWISE YOU CANT CONTROL IT!!!)
+<img width="1762" height="2500" alt="Ultrasonic Controlled Radar Detector (6)" src="https://github.com/user-attachments/assets/2f0a3e1a-ec02-48f1-9e9d-30ad1622b524" />
 
-<img width="1410" height="2000" alt="Ultrasonic Controlled Radar Detector Zine" src="https://github.com/user-attachments/assets/84564a36-dc9c-4ecd-ab46-692b9b1ad27a" />
 
 # Motivaiton
 The motivation for this was that I wanted to get into hardware, and realizing that I have no idea what I am doing, this was the first project I decided to do since it would tackle what VCC and GND is, what digital ports are, and how to use a microcontroller in the first place.
@@ -19,4 +18,18 @@ It will then detect the distance through the ultrasonic motor which will be outp
 # Wiring Diagram
 
 <img width="944" height="1018" alt="UCRD" src="https://github.com/user-attachments/assets/3366e8c2-a710-423c-a924-ffc4158abedb" />
+
+# CAD
+## Isometric
+
+## Front
+<img width="1040" height="852" alt="image" src="https://github.com/user-attachments/assets/a1ddb103-c299-4bb7-bb8b-70974e04cb9d" />
+
+## Side
+<img width="804" height="852" alt="image" src="https://github.com/user-attachments/assets/1977c79d-6e81-4351-bbe7-f3c9d53af1cc" />
+
+## Back
+
+<img width="1104" height="852" alt="image" src="https://github.com/user-attachments/assets/b2bb1f6e-a04a-41c6-b2ba-28fcccddc2aa" />
+
 
