@@ -38,4 +38,9 @@ It will then detect the distance through the ultrasonic motor which will be outp
 
 <img width="1104" height="852" alt="image" src="https://github.com/user-attachments/assets/b2bb1f6e-a04a-41c6-b2ba-28fcccddc2aa" />
 
+## Bottom
+
+<img width="632" height="842" alt="image" src="https://github.com/user-attachments/assets/d8733db8-dc98-4750-a7b6-b4bf0ab9e026" />
+
+
 
