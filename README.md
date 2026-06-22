@@ -1,8 +1,6 @@
 # Ultrasonic Controlled Radar Detector
 
-<img width="1410" height="2000" alt="Ultrasonic Controlled Radar Detector Zine" src="https://github.com/user-attachments/assets/c99261d5-6e25-4cdf-a6be-5d6860c4fee8" />
-
-
+<img width="1762" height="2500" alt="Ultrasonic Controlled Radar Detector (7)" src="https://github.com/user-attachments/assets/8abefd33-4174-4d4b-a375-a356f468a2e8" />
 
 # Motivaiton
 The motivation for this was that I wanted to get into hardware, and realizing that I have no idea what I am doing, this was the first project I decided to do since it would tackle what VCC and GND is, what digital ports are, and how to use a microcontroller in the first place.
