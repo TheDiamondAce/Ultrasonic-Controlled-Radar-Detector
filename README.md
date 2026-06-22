@@ -21,6 +21,11 @@ It will then detect the distance through the ultrasonic motor which will be outp
 <img width="944" height="1018" alt="UCRD" src="https://github.com/user-attachments/assets/3366e8c2-a710-423c-a924-ffc4158abedb" />
 
 # CAD
+
+## Exploded View
+
+<img width="590" height="824" alt="image" src="https://github.com/user-attachments/assets/65bcf255-ff5a-4599-9ce0-a7a02ce411f5" />
+
 ## Isometric
 
 ## Front
