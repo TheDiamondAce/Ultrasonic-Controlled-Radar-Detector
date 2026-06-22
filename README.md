@@ -23,19 +23,27 @@ It will then detect the distance through the ultrasonic motor which will be outp
 
 ## Exploded View
 
-<img width="590" height="824" alt="image" src="https://github.com/user-attachments/assets/65bcf255-ff5a-4599-9ce0-a7a02ce411f5" />
+<img width="614" height="610" alt="Screenshot 2026-06-22 at 10 32 12 PM" src="https://github.com/user-attachments/assets/dbed9e9b-0760-457f-96bd-1d09b36a6adc" />
+
 
 ## Isometric
 
+<img width="1228" height="1220" alt="image" src="https://github.com/user-attachments/assets/0bab30c6-6003-426b-9274-be1d8e2c5214" />
+
+
 ## Front
-<img width="1040" height="852" alt="image" src="https://github.com/user-attachments/assets/a1ddb103-c299-4bb7-bb8b-70974e04cb9d" />
+<img width="1228" height="1220" alt="image" src="https://github.com/user-attachments/assets/d79fa368-dcc7-43db-82d5-4b5517cff9d7" />
+
 
 ## Side
-<img width="804" height="852" alt="image" src="https://github.com/user-attachments/assets/1977c79d-6e81-4351-bbe7-f3c9d53af1cc" />
+
+<img width="614" height="610" alt="Screenshot 2026-06-22 at 10 34 30 PM" src="https://github.com/user-attachments/assets/d9c335ab-f03c-48bc-a1bd-86526b9902f9" />
+
 
 ## Back
 
-<img width="1104" height="852" alt="image" src="https://github.com/user-attachments/assets/b2bb1f6e-a04a-41c6-b2ba-28fcccddc2aa" />
+<img width="1228" height="1220" alt="image" src="https://github.com/user-attachments/assets/67bce434-be28-44bc-ae89-aa498c2f7918" />
+
 
 ## Bottom
 
