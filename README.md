@@ -1,6 +1,7 @@
 # Ultrasonic Controlled Radar Detector
 
-<img width="1410" height="2000" alt="Ultrasonic Controlled Radar Detector Zine" src="https://github.com/user-attachments/assets/92b3e183-74ba-4e3a-8903-129e4ff1bdca" />
+<img width="1410" height="2000" alt="Ultrasonic Controlled Radar Detector Zine" src="https://github.com/user-attachments/assets/89e08f35-cf55-41ab-8c13-1ee509951642" />
+
 
 
 # Motivaiton
@@ -8,7 +9,7 @@ The motivation for this was that I wanted to get into hardware, and realizing th
 I updated this project 06/19/26 but I'm pretty sure I started this project around May 2026, since this was my first personal hardware project besides hackathons.
 
 # How to Build
-To build this, you will need to get the servo motor, the ultrasonic module,the breadboard, and the joystick module, all of which can be seen in the BOM, and use the configuration in the wiring diagram to set it up. Then after you connect it to the breadboard, you will need to connect your arduino uno to all of the ports as shown in the Wiring Diagram, (Physically you will need to daisy wire the GND if there is not enough space as well as for the 3.3V or PWR) and use the Plaformio extension and the code in this github repo to start the process. If there is an error on the #include <Arduino.h>, it is most likely a intellisense error in which you can Rebuild Intellisense Index using Platformio through the search bar up at the top of VS Code.
+To build this, you will need to get the servo motor, the ultrasonic module,the breadboard, and the joystick module, all of which can be seen in the BOM, and use the configuration in the wiring diagram to set it up (For the ultrasonic wires/prongs, bend them slightly around 45-75deg so that its easier to connect the wires through the gaps). Then after you connect it to the breadboard, you will need to connect your arduino uno to all of the ports as shown in the Wiring Diagram, (Physically you will need to daisy wire the GND if there is not enough space as well as for the 3.3V or PWR) and use the Plaformio extension and the code in this github repo to start the process. If there is an error on the #include <Arduino.h>, it is most likely a intellisense error in which you can Rebuild Intellisense Index using Platformio through the search bar up at the top of VS Code.
 Then it should show you a Serial Print Message, stating what distance its detecting. Also, quick note, CONNECT THE SERVO MOTOR TO THE ULTRASONIC, OTHERWISE YOU CANT CONTROL IT!!! 
 
 # How it works
@@ -23,31 +24,30 @@ It will then detect the distance through the ultrasonic motor which will be outp
 
 ## Exploded View
 
-<img width="614" height="610" alt="Screenshot 2026-06-22 at 10 32 12 PM" src="https://github.com/user-attachments/assets/dbed9e9b-0760-457f-96bd-1d09b36a6adc" />
+<img width="1214" height="1228" alt="image" src="https://github.com/user-attachments/assets/80c608b1-56f4-4289-9afc-a70c46f6b6de" />
+
 
 
 ## Isometric
 
-<img width="1228" height="1220" alt="image" src="https://github.com/user-attachments/assets/0bab30c6-6003-426b-9274-be1d8e2c5214" />
+<img width="1214" height="1228" alt="image" src="https://github.com/user-attachments/assets/9d282df4-8729-4b6f-a4bc-09461faba0ba" />
 
 
 ## Front
-<img width="1228" height="1220" alt="image" src="https://github.com/user-attachments/assets/d79fa368-dcc7-43db-82d5-4b5517cff9d7" />
+<img width="1214" height="1228" alt="image" src="https://github.com/user-attachments/assets/b0f35877-8feb-480c-a8d9-15fb4b4c14a3" />
 
 
 ## Side
-
-<img width="614" height="610" alt="Screenshot 2026-06-22 at 10 34 30 PM" src="https://github.com/user-attachments/assets/d9c335ab-f03c-48bc-a1bd-86526b9902f9" />
-
+<img width="607" height="614" alt="Screenshot 2026-06-27 at 10 45 59 PM" src="https://github.com/user-attachments/assets/3c2afc14-58c7-4824-87f5-d97bdd3ce268" />
 
 ## Back
 
-<img width="1228" height="1220" alt="image" src="https://github.com/user-attachments/assets/67bce434-be28-44bc-ae89-aa498c2f7918" />
+<img width="1214" height="1228" alt="image" src="https://github.com/user-attachments/assets/893d8645-ff04-4034-b52f-671b93bd1f1f" />
 
 
 ## Bottom
 
-<img width="632" height="842" alt="image" src="https://github.com/user-attachments/assets/d8733db8-dc98-4750-a7b6-b4bf0ab9e026" />
+<img width="607" height="614" alt="Screenshot 2026-06-27 at 10 47 46 PM" src="https://github.com/user-attachments/assets/752042cb-036d-4402-bc0b-9682afcd38fc" />
 
 
 
